@@ -1,0 +1,7 @@
+12:46:31.271 [main] INFO  com.inetbanking.resources.Base - password is entered 
+12:46:33.977 [main] INFO  com.inetbanking.resources.Base - click on submit
+12:46:35.031 [main] INFO  com.inetbanking.resources.Base - click on new customer
+12:46:35.225 [main] INFO  com.inetbanking.resources.Base - entered name
+12:46:35.432 [main] INFO  com.inetbanking.resources.Base - gender selected 
+12:46:38.555 [main] INFO  com.inetbanking.resources.Base - dateofbirth entered
+12:46:39.915 [main] INFO  com.inetbanking.resources.Base - address entered

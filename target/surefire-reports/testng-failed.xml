@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.inetbanking.utilities.Listeners"/>
+    <listener class-name="com.inetbanking.utilities.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="Test(failed)">
+    <classes>
+      <class name="com.inetBankingV1.testcases.TC_LoginDp_002">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="loginDp" invocation-numbers="1"/>
+        </methods>
+      </class> <!-- com.inetBankingV1.testcases.TC_LoginDp_002 -->
+      <class name="com.inetBankingV1.testcases.TC_AddCustomer_003">
+        <methods>
+          <include name="tearDown"/>
+          <include name="addNewCustomer"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.inetBankingV1.testcases.TC_AddCustomer_003 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,7 @@
+12:46:40.015 [main] INFO  com.inetbanking.resources.Base - city name is given
+12:46:40.121 [main] INFO  com.inetbanking.resources.Base - state name is given
+12:46:42.994 [main] INFO  com.inetbanking.resources.Base - pincode is given 
+12:46:43.127 [main] INFO  com.inetbanking.resources.Base - mobile no is entered 
+12:46:43.315 [main] INFO  com.inetbanking.resources.Base - mail to give
+12:46:43.775 [main] INFO  com.inetbanking.resources.Base - password is entered
+12:46:43.862 [main] INFO  com.inetbanking.resources.Base - click on submit
